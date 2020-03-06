@@ -1,0 +1,39 @@
+.container-lg {
+    padding: 0;
+    background-color: #FCC2FF;
+    top: 0;
+    min-height: 100vh;
+}
+.title {
+    padding-top: 10%;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.rowCenter{
+    justify-content: center;
+}
+
+.btnTop{
+    width: 100%;
+    text-align: center;
+    background-color: #FF80B1!important;
+    border: white 2px solid!important;
+    border-radius: 8px!important;
+    color: white!important;
+    font-size: 16px;
+}
+
+.btnTop:hover{
+    width: 100%;
+    text-align: center;
+    background-color: #85E3FF!important;
+    border: white 2px solid!important;
+    border-radius: 8px!important;
+    color: white!important;
+    font-size: 16px;
+}
+.firma{
+    color: #FF80B1!important;
+}
